@@ -1,4 +1,8 @@
-Maito on nisäkäsnaaraiden maitorauhasista erittyvää valkoista ravintonestettä. 
+Maito on nisäkäsnaaraiden maitorauhasista erittyvää valkoista ravintonestettä. ISO MUUTOS 
 Maidon tarkoitus on ruokkia imeväisiä. 
 Nokkaeläimillä, pussieläimillä, ja aidoilla nisäkkäillä, joihin myös ihminen kuuluu, on kyky erittää maitoa. 
+<<<<<<< HEAD
 Ihmisen maitoa kutsutaan rinta- eli äidinmaidoksi MUUTOKSIA LOCAL
+=======
+Ihmisen maitoa kutsutaan rinta- eli äidinmaidoksi
+>>>>>>> f74c3e84ac1aa3aa70b0a06526e5680583fb68f4
