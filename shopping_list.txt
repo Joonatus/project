@@ -1,4 +1,4 @@
-kananmuna
+kananmuna 2x
 kurkku
 pekoni
 leipää
@@ -7,3 +7,4 @@ banaania
 pakaste pizza
 kinkku
 tonnikalaa 2x
+
